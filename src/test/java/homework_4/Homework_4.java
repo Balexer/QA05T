@@ -13,7 +13,6 @@ public class Homework_4 {
         driver.findElementByName("ht").sendKeys("181");
         driver.findElementByName("cc").click();
         driver.quit();
-
     }
 }
 
